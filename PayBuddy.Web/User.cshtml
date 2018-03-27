@@ -1,0 +1,196 @@
+﻿@{
+    Layout = null;
+}
+@using System.Web.Optimization
+@using System.Reflection
+
+@{
+    WebPageHttpHandler.DisableWebPagesResponseHeader = true;
+    System.Web.Mvc.MvcHandler.DisableMvcResponseHeader = true;
+    Response.OutputCache(0);
+}
+
+<!DOCTYPE html>
+
+<html ng-app="app">
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/MainTheme/application.css" rel="stylesheet" />
+
+    <style>
+        .dropdown-submenu {
+            position: relative;
+        }
+
+            .dropdown-submenu .dropdown-menu {
+                top: 0;
+                left: 100%;
+                margin-top: -1px;
+            }
+    </style>
+
+  
+
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+
+
+    <title>PayBuddy</title>
+</head>
+<body ng-controller="userCtrl" ng-init="initUser()" style=" overflow-x:hidden;">
+
+    <div class="container-fluid" style="background-color:#eee; ">
+        <div class="content-wrap">
+
+            <!--header-->
+            <div class="row" id="header">
+                <nav class="navbar navbar-default navbar-fixed-top" id="navbar_fixed">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+
+
+                            <a href="User#/dashboard" class="navbar-brand" style="padding-left:5px;">
+                                <img src="~/Content/Images/pay-buddy.png" height="80" width="80" alt="PayBuddy">
+                            </a>
+                        </div>
+
+                        <div id="navbar1" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+                                <li class="Products" id="verticleMenu">
+                                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button">Products<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li class="dropdown-submenu">
+                                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button">Electronics<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a  href="">Mobiles</a></li>
+                                                <li><a  href="">Televisions</a></li>
+                                                <li><a  href="">Laptops</a></li>
+                                                <li><a  href="">Earphones</a></li>
+                                                <li><a  href="">Microwaves</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button">Clothing<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a  href="">T-Shirts</a></li>
+                                                <li><a  href="">Shirts</a></li>
+                                                <li><a  href="">Shoes</a></li>
+                                                <li><a  href="">Trousers</a></li>
+                                                <li><a  href="">Jackets</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button">Sports<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a  href="">Cricket</a></li>
+                                                <li><a  href="">Football</a></li>
+                                                <li><a  href="">Basketball</a></li>
+                                                <li><a  href="">Badminton</a></li>
+                                                <li><a  href="">Tennis</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+
+                            <div id="sideLinks">
+                                <ul class="transferLink">
+                                    <li>
+                                        <a href="" style="text-decoration:none; margin-right:10px;margin-left:10px;padding-right:4px;" ><img src="~/Content/Images/pay.png" />Pay/Transfer</a>
+                                        <a href="" style="text-decoration:none;margin-right:10px;margin-left:10px;padding-right:4px;" ><img src="~/Content/Images/atm.png" />Balance</a>
+                                        <a href="User#/Cart" style="text-decoration:none;margin-right:10px;margin-left:10px;padding-right:4px;" ><img src="~/Content/Images/cart.png" />Cart</a>
+                                        <a href="" ng-click="redirectToPutUser()" style="margin-right:10px;margin-left:10px;"> Welcome {{displayName}}! </a>
+                                        <button class="btn btn-primary" id="btn2" ng-click="signOut()"><span class="glyphicon glyphicon-user"></span>SignOut</button>
+                                    </li>
+
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+
+            <div ng-view> </div>
+
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        </div>
+
+    </div>
+
+    <div style="height:150px;">
+        <footer id="myFooter">
+            <div class="row" style="margin-left: 0px; margin-right: 0px;">
+                <div class="col-sm-3">
+
+                </div>
+
+                <div class="col-sm-2">
+                    <h5>Company</h5>
+                    <ul>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Team</a></li>
+                        <li><a href="#">Career</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-sm-2">
+                    <h5>Support</h5>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">Help desk</a></li>
+                        <li><a href="#">Forums</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-2">
+                    <h5>Policies</h5>
+                    <ul>
+                        <li><a href="#">Privacy</a></li>
+                        <li><a href="#">Terms & Conditions</a></li>
+                        <li><a href="#">Refund</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <div class="social-networks">
+                        <a href="https://github.com/login" class="github"><i class="fa fa-github"></i></a>
+                        <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                        <a href="https://accounts.google.com/signin/v2/identifier?hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="google"><i class="fa fa-google-plus"></i></a>
+                    </div>
+                    <button type="button" class="btn btn-default">Contact us</button>
+                </div>
+            </div>
+            <div class="footer-copyright">
+                <p><strong> © 2018 PayBuddy </strong> </p>
+            </div>
+        </footer>
+    </div>
+
+
+
+    
+
+
+
+    @Scripts.Render("~/bundles/jQuery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/rx")
+    @Scripts.Render("~/bundles/appstart")
+    @Scripts.Render("~/bundles/dataServices")
+    @Scripts.Render("~/bundles/controllers")
+
+</body>
+</html>

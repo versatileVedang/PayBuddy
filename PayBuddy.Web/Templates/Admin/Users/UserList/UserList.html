@@ -1,0 +1,133 @@
+﻿<div ng-controller="adminCtrl" ng-init="initGetUser()" style="margin-top:80px; background-color:antiquewhite;">
+    <br />
+    <div class="col-lg-offset-1 pull-left margin-bottom-5 ng-scope">
+        <input type="text" placeholder=" Search Results" ng-model="searchInput" class="ng-pristine ng-valid">
+        <div class="btn-group">
+            <button class="btn btn-primary " rx-tip="" title="" rx-trigger="hover" tip-placement="bottom" ng-click="autoFilter()" data-original-title="Search Record"><i class="icon-search"></i></button>
+        </div>
+        <div class="btn-group">
+            <button class="btn btn-default " rx-tip="" title="" rx-trigger="hover" tip-placement="bottom" ng-click="resetSearch()" data-original-title="Undo Search"><i class="icon-undo"></i></button>
+        </div>
+    </div><br /><br /><br />
+
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="table-responsive">
+                <!-- rx grid-->
+                <rx-grid grid-source="usersGrid" grid-option="usersGridOption"></rx-grid>
+            </div>
+        </div>
+    </div>
+</div>
+    <!--<div class="row">
+        <div class="col-lg-3  col-lg-offset-3">
+            <table id="customTable" class="table table-responsive table-bordered table-striped">
+                <thead>
+                    <tr style="background: rgba(216, 207, 207, 0.84); ">
+                        <th>User Id</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Email</th>
+                        <th>Contact</th>
+                        <th>Gender</th>
+                        <th>Address</th>
+                        <th colspan="2" align="center">Actions</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr ng-repeat="item in userList">
+                        <td>{{item.userId}}</td>
+                        <td>{{item.firstName}}</td>
+                        <td>{{item.lastName}}</td>
+                        <td>{{item.email}}</td>
+                        <td>{{item.contact}}</td>
+                        <td>{{item.gender}}</td>
+                        <td>{{item.address}}</td>
+                        <td>
+                            <button ng-click="viewUser(item)" class="btn-sm btn-primary  glyphicon glyphicon-eye-open ">View</button>
+                        </td>
+                        <td>
+                            <button ng-click="showUserDeletePopup(item)" class="btn-sm btn-danger glyphicon glyphicon-remove">Delete</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="modal fade" id="myModal1" tabindex="-2" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
+        <div class="modal-dialog">
+
+
+            <div class="modal-content">
+                <div class="modal-header">
+                    <center><h4 class="modal-title">View User</h4></center>
+                </div>
+
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="userId" class="col-md-4">UserId:</label>
+                        <label id="userId" class="col-md-8" ng-bind="user.userId"></label>
+                    </div><br />
+                    <div class="form-group">
+                        <label for="fname" class="col-md-4">First Name:</label>
+                        <label id="fname" class="col-md-8" ng-bind="user.firstName"></label>
+                    </div><br />
+                    <div class="form-group">
+                        <label for="lname" class="col-md-4">Last Name:</label>
+                        <label id="lname" class="col-md-8" ng-bind="user.lastName"></label>
+                    </div><br />
+                    <div class="form-group">
+                        <label for="email" class="col-md-4">Email:</label>
+                        <label id="email"  class="col-md-8" ng-bind="user.email"></label>
+                    </div><br />
+                    <div class="form-group">
+                        <label for="contact" class="col-md-4" >Contact:</label>
+                        <label id="contact" class="col-md-8" ng-bind="user.contact"></label>
+                    </div><br />
+                    <div class="form-group">
+                        <label for="address" class="col-md-4">Address:</label>
+                        <label id="address" class="col-md-8" ng-bind="user.address"></label>
+                    </div><br />
+                    <div class="form-group">
+                        <label for="gender" class="col-md-4">Gender:</label>
+                        <label id="gender" class="col-md-8" ng-bind="user.gender"></label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <center><button type="button" class="btn btn-primary" data-dismiss="modal">Close View</button></center>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="modal fade" id="myModal2" tabindex="-2" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+                <div class="modal-header">
+                    <center><h3 class="modal-title">Delete User</h3></center>
+                </div>
+
+                <div class="modal-body">
+                    <h5>Are you sure you want to delete this user?</h5>
+                </div>
+                <div class="modal-footer">
+                       <center><button type="button" class="btn btn-primary" data-dismiss="modal" ng-click="deleteUser(selectedUser)">Delete</button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Cancel</button></center>
+                </div>
+            </div>
+
+        </div>
+    </div>-->
+</div>
+
+
+
+
+
+
+
+

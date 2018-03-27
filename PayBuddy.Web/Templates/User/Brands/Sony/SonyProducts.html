@@ -1,0 +1,63 @@
+﻿
+
+<link href="../../../../Content/bootstrap.css" rel="stylesheet" />
+<script src="../../../Scripts/jquery-1.10.2.js"></script>
+<link href="../../../../Content/MainTheme/application.css" rel="stylesheet" />
+<link href="../../../../Content/Site.css" rel="stylesheet" />
+<script src="//raw.github.com/botmonster/jquery-bootpag/master/lib/jquery.bootpag.min.js"></script>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+
+
+<div ng-controller="cartCtrl" ng-init="viewProduct()">
+    <div id="navbar1" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li class="products" id="verticleMenu" style="list-style:none;">
+                <a href="User#/Dashboard" class=" dropdown-toggle" data-toggle="dropdown" role="button">Back <span class="caret"></span></a>
+            </li>
+        </ul>
+    </div>
+
+
+    <div class="well-lg">
+        <div class="caption">
+            <div class="row">
+                <div class="col-lg-9 col-md-offset-2 " style="background-color:rgba(225, 219, 219, 0.41); ">
+                    <div class="row">
+                        <div class="col-md-3" id="content" ng-repeat="item in productList" style="margin-left:90px; margin-top:30px;">
+                            <div id="products" class="row list-group">
+
+                                <div class="thumbnail">
+                                    <img src=" {{item.productImageBaseString}}" height="245" width="245" style="padding-top:2px;" />
+                                    <div class="caption">
+                                        <h4><strong>{{item.productName}} </strong></h4>
+                                        <p style="max-height: 3.6em; text-overflow :ellipsis;">{{item.productDescription}}</p>
+                                        <div class="row">
+                                            <div class="col-xs-12 col-md-6">
+                                                <p class="lead ">Rs.{{item.cost}}</p>
+                                            </div>
+                                            <div class="col-xs-12 col-md-6">
+                                                <a class="btn btn-success" ng-click="addProduct(item)">Add to cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+   
+    <script>
+        // init bootpag
+        $('#page-selection').bootpag({
+            total: 10
+        }).on("page", function (event, /* page number here */ num) {
+            $("#content").html("Insert content"); // some ajax content loading...
+        });
+    </script>
+</div>

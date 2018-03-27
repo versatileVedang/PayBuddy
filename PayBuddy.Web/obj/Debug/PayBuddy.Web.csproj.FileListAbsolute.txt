@@ -1,0 +1,455 @@
+D:\Projects\PayBuddy\PayBuddy.Web\bin\ApplicationInsights.config
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll.config
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.pdb
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\EntityFramework.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Rx.Repository.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\StructureMap.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Http.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\WebGrease.dll
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.pdb
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll.config
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.pdb
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll.config
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.pdb
+D:\Projects\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll.config
+D:\Projects\PayBuddy\PayBuddy.Web\bin\EntityFramework.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\StructureMap.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Http.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.xml
+D:\Projects\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csprojResolveAssemblyReference.cache
+D:\Projects\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csproj.CoreCompileInputs.cache
+D:\Projects\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.dll
+D:\Projects\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\ApplicationInsights.config
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll.config
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\EntityFramework.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Rx.Repository.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\StructureMap.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Http.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\WebGrease.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll.config
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll.config
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll.config
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\EntityFramework.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\StructureMap.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Http.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csprojResolveAssemblyReference.cache
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csprojResolveAssemblyReference.cache
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\ApplicationInsights.config
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll.config
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\EntityFramework.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Rx.Repository.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\StructureMap.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Http.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\WebGrease.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll.config
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll.config
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll.config
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\EntityFramework.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\StructureMap.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Http.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\ApplicationInsights.config
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Web.dll.config
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Web.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Web.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Antlr3.Runtime.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\EntityFramework.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\EntityFramework.SqlServer.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.Web.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Newtonsoft.Json.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Domain.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Models.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Rx.Repository.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\StructureMap.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Net.Http.Formatting.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Helpers.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Http.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Http.WebHost.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Mvc.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Optimization.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Razor.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.WebPages.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.WebPages.Razor.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\WebGrease.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Domain.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Domain.dll.config
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Infrastructure.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll.config
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Models.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\PayBuddy.Models.dll.config
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\EntityFramework.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\EntityFramework.SqlServer.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\StructureMap.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Newtonsoft.Json.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Net.Http.Formatting.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Helpers.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Http.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Http.WebHost.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Mvc.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Optimization.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.Razor.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.WebPages.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\System.Web.WebPages.Razor.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Antlr3.Runtime.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\bin\Microsoft.AI.Web.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\obj\Debug\PayBuddy.Web.csprojResolveAssemblyReference.cache
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\obj\Debug\PayBuddy.Web.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Web\obj\Debug\PayBuddy.Web.pdb
+\\PC0058\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csprojResolveAssemblyReference.cache
+\\PC0058\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\ApplicationInsights.config
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll.config
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\EntityFramework.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Rx.Repository.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\StructureMap.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Http.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\WebGrease.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll.config
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll.config
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll.config
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\EntityFramework.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\StructureMap.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Http.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csprojResolveAssemblyReference.cache
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csproj.CoreCompileInputs.cache
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\ApplicationInsights.config
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll.config
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\EntityFramework.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Rx.Repository.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\StructureMap.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Http.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\WebGrease.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll.config
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll.config
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll.config
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\EntityFramework.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\StructureMap.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Http.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csprojResolveAssemblyReference.cache
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csproj.CoreCompileInputs.cache
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Web\bin\Rx.Infrastructure.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\ApplicationInsights.config
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll.config
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Web.pdb
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\EntityFramework.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Rx.Infrastructure.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Rx.Repository.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\StructureMap.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Http.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\WebGrease.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.pdb
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Domain.dll.config
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.pdb
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Infrastructure.dll.config
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.pdb
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\PayBuddy.Models.dll.config
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\EntityFramework.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\StructureMap.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Helpers.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Mvc.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Razor.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Newtonsoft.Json.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Http.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\System.Web.Optimization.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Antlr3.Runtime.pdb
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\bin\Microsoft.AI.Web.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.csprojResolveAssemblyReference.cache
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Web\obj\Debug\PayBuddy.Web.pdb

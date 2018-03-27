@@ -1,0 +1,115 @@
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csproj.CoreCompileInputs.cache
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll.config
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.pdb
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.dll
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\Rx.Repository.dll
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.pdb
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll.config
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.xml
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.dll
+c:\users\shailk.patel\documents\visual studio 2017\Projects\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll.config
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\Rx.Repository.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.pdb
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll.config
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.dll
+C:\Users\arth\Desktop\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll.config
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\Rx.Repository.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.pdb
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll.config
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.dll
+D:\Arth\PayBuddy-Rx\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll.config
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\Rx.Repository.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.pdb
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll.config
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csprojResolveAssemblyReference.cache
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.dll
+D:\PayBuddy\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.pdb
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll.config
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.pdb
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.dll
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\Rx.Repository.dll
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.pdb
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll.config
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.xml
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csprojResolveAssemblyReference.cache
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.dll
+\\PC0058\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll.config
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\Rx.Repository.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.pdb
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll.config
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.dll
+C:\Users\shailk.patel\Documents\Downloads\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll.config
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\Rx.Repository.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.pdb
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll.config
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.dll
+D:\Projects\Main Project\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.pdb
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll.config
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Infrastructure.pdb
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\Rx.Repository.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.pdb
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\PayBuddy.Models.dll.config
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.dll
+C:\Users\vedang.pandya\Documents\Downloads\PayBuddy\PayBuddy\PayBuddy.Infrastructure\obj\Debug\PayBuddy.Infrastructure.pdb
